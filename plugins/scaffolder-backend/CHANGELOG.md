@@ -1,5 +1,11 @@
 # @backstage/plugin-scaffolder-backend
 
+## 0.15.12
+
+### Patch Changes
+
+- 9990df8a1f: Expose some classes and interfaces public so TaskWorkers can run externally from the scaffolder API.
+
 ## 0.15.11
 
 ### Patch Changes

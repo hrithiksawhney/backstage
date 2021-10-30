@@ -1,5 +1,13 @@
 # @backstage/core-components
 
+## 0.7.3
+
+### Patch Changes
+
+- c11a37710a: Will Add warning variant to `DismissableBanner` component.
+- Updated dependencies
+  - @backstage/theme@0.2.13
+
 ## 0.7.2
 
 ### Patch Changes
